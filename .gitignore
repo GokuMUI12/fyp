@@ -1,1 +1,4 @@
-model/
+model/model.keras
+Dutch_Government_F3_entire_8bit_seismic.segy
+f3_faults.npy
+venv/
